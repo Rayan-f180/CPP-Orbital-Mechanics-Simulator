@@ -1,0 +1,22 @@
+# Build & output
+Build/
+Bin/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.out
+*.dll
+*.o
+*.obj
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# ImGui runtime state
+imgui.ini
