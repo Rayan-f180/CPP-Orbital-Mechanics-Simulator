@@ -67,8 +67,6 @@ Res/
 - shaders/  
 - textures/  
 
-imgui/  
-- Dear ImGui source  
 
 CMakeLists.txt
 
